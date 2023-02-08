@@ -1,7 +1,10 @@
-# 💫 About Me:
-Hi there 👋
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=4900&pause=1000&color=11F717&width=435&lines=I+am+Programmer%2C+Hacker%2C+Linux+Evangelist" alt="Typing SVG" /></a>
+<h2 align="center">
+  Welcome to Anmol's Github!
+  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
+  </h2>
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=A02CFD&width=435&lines=Hi!+Anmol+here;Computer+Science+Undergraduate;Programmer+and+;Penetration+Tester;Who+loves+to+;explore%2C+automate%2C+break%2C+learn+;and+hack+all+the+things!+;I+like+to+learn+by+making+projects." alt="Typing SVG" /></a>
+</p>
 
 I'm Anmol and I'm Computer Science Student pursuing BCA (Bachelor's Of Computer Applications).
 I have worked with a variety of Languages and made Projects. I try to create what's for me the perfect project and user interface design. <br>
