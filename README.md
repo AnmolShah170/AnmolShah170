@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
   </h2>
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=A02CFD&width=435&lines=Hi!+Anmol+here;Computer+Science+Undergraduate;Programmer+and+;Penetration+Tester;Who+loves+to+;explore%2C+automate%2C+break%2C+learn+;and+hack+all+the+things!+;I+like+to+learn+by+making+projects." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=A02CFD&width=435&lines=Hi!+Anmol+here;A+Computer+Science+Undergraduate;Programmer+and+Penetration+Tester;Who+loves+to+;explore%2C+automate%2C+break%2C+learn+;and+hack+all+the+things!+;I+like+to+learn+by+making+projects." alt="Typing SVG" /></a>
 </p>
 
 I'm Anmol and I'm Computer Science Student pursuing BCA (Bachelor's Of Computer Applications).
